@@ -21,7 +21,7 @@ Besides programming, I enjoy reading and travelling.
 
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=imsanjoykb&show_icons=true" alt="imsanjoykb"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mohsinrazaa&show_icons=true" alt="Mohsinrazaa"/>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Besides programming, I enjoy reading and travelling.
   <img align="center" alt="Mohsin Raza | Kaggle" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />	
 </a>	
 <a href="http://www.fiverr.com/s2/7f29466eb7">	
-  <img align="center" alt="Sanjoy Biswas | Twitter" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />	
+  <img align="center" alt="Mohsin Raza | Fiverr" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />	
 </a>	
 <a href="https://www.instagram.com/razan6568">	
   <img align="center" alt="Mohsin Raza | Instagram" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />	
