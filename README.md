@@ -18,11 +18,11 @@ Besides programming, I enjoy reading and travelling.
 - 💬 Ask me about **anything you feel like!**
 - 📫 How to reach me **raazabc60@gmail.com**
 - ⚡ Fun fact **I play Fooball and Listening Song!**
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsinrazaa&layout=compact")(https://github.com/Mohsinrazaa/github-readme-stats) alt="Mohsinrazaa">
 <p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsinrazaa&layout=compact")(https://github.com/Mohsinrazaa/github-readme-stats) alt="Mohsinrazaa">
+</p>
 <br>
-<p align="center">
+<p align="center>
 <img src="https://github-readme-stats.vercel.app/api?username=Mohsinrazaa&show_icons=true" alt="Mohsinrazaa"/>
 </p>
 
