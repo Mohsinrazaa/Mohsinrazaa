@@ -64,4 +64,13 @@ Happy Coding!!
 
 ## Contribution Graph
 [![Mohsin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mohsinrazaa&theme=xcode)](https://github.com/Mohsinrazaa)
-  
+ 
+<h2><i>⚙️ GitHub Analytics</i></h2>
+<p align="center">
+<a href="https://github.com/Mohsinrazaa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohsinraza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohsinraza&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinraza&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</p>
+</p>
