@@ -18,7 +18,7 @@ Besides programming, I enjoy reading and travelling.
 - 💬 Ask me about **anything you feel like!**
 - 📫 How to reach me **raazabc60@gmail.com**
 - ⚡ Fun fact **I play Fooball and Listening Song!**
-- 🥅 **2021 Goals**: Contribute more to Open Source projects.
+- 🥅 **2022 Goals**: Contribute more to Open Source projects.
 
 <br>
 <p align="center">
