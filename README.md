@@ -6,7 +6,7 @@
 <br />
 I'm a Data Science practitioner and computer programmer with an avid interest in Natural Language Processing and traditional Machine Learning. As a core programmer, I love taking challenges and love being part of the solution.
 <br/>
-Besides programming, I enjoy reading and travelling.
+Besides programming, I enjoy reading and traveling.
 <br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px" />
   
@@ -17,8 +17,8 @@ Besides programming, I enjoy reading and travelling.
 - 🤔 I’m looking for help with **learning anything new!**
 - 💬 Ask me about **anything you feel like!**
 - 📫 How to reach me **raazabc60@gmail.com**
-- ⚡ Fun fact **I play Fooball and Listening Song!**
-- 🥅 **2021 Goals**: Contribute more to Open Source projects.
+- ⚡ Fun fact **I play Football and Listening Song!**
+- 🥅 **2022 Goals**: Contribute more to Open Source projects.
 
 <br>
 <p align="center">
