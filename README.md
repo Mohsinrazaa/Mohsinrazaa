@@ -12,7 +12,7 @@ Besides programming, I enjoy reading and traveling.
   
 **A bit about me:**
 
-- 🔭 I’m currently working as a **Data Scientist @ PIPELINE Security**
+- 🔭 I’m currently working as a **Software Engineer**
 - 👯 I’m looking to collaborate on **DL and NLP Projects**
 - 🤔 I’m looking for help with **learning anything new!**
 - 💬 Ask me about **anything you feel like!**
