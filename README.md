@@ -16,9 +16,9 @@ Besides programming, I enjoy reading and traveling.
 - 👯 I’m looking to collaborate on **DL and NLP Projects**
 - 🤔 I’m looking for help with **learning anything new!**
 - 💬 Ask me about **anything you feel like!**
-- 📫 How to reach me **raazabc60@gmail.com**
+- 📫 How to reach me **razam6568@gmail.com**
 - ⚡ Fun fact **I play Football and Listening Song!**
-- 🥅 **2022 Goals**: Contribute more to Open Source projects.
+- 🥅 **2024 Goals**: Contribute more to Open Source projects.
 
 <br>
 <p align="center">
