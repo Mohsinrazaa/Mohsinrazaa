@@ -62,6 +62,3 @@ Happy Coding!!
 <a href="https://www.instagram.com/razam6568/"><img src="https://img.shields.io/badge/-@mohsinraza-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/razam66"><img src="https://img.shields.io/badge/-@mohsinraa-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
-## Contribution Graph
-[![Mohsin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mohsinrazaa&theme=xcode)](https://github.com/Mohsinrazaa)
- 
