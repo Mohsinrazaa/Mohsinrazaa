@@ -4,7 +4,7 @@
 <br />
 <br />
 <br />
-I'm a Data Science practitioner and computer programmer with an avid interest in Natural Language Processing and traditional Machine Learning. As a core programmer, I love taking challenges and love being part of the solution.
+I'm a Data Science practitioner and computer programmer with an avid interest in Natural Language Processing and traditional Machine Learning. As a core programmer, I love taking challenges and being part of the solution.
 <br/>
 Besides programming, I enjoy reading and traveling.
 <br>
@@ -17,7 +17,7 @@ Besides programming, I enjoy reading and traveling.
 - 🤔 I’m looking for help with **learning anything new!**
 - 💬 Ask me about **anything you feel like!**
 - 📫 How to reach me **razam6568@gmail.com**
-- ⚡ Fun fact **I play Football and Listening Song!**
+- ⚡ Fun fact **I play Football and listen to Song!**
 - 🥅 **2024 Goals**: Contribute more to Open Source projects.
 
 <br>
