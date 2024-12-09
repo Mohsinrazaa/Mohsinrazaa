@@ -4,10 +4,12 @@
 <br />
 <br />
 <br />
-I'm a Data Science practitioner and computer programmer with an avid interest in Natural Language Processing and traditional Machine Learning. As a core programmer, I love taking challenges and being part of the solution.
+I'm a dedicated software developer with expertise in building intelligent systems, particularly in the fields of Natural Language Processing and traditional Machine Learning. I enjoy creating efficient, scalable solutions to complex problems and have a deep passion for transforming ideas into impactful software. Whether it's designing algorithms, optimizing code, or exploring the latest advancements in AI, I’m always eager to push the boundaries of what technology can achieve.
 <br/>
-Besides programming, I enjoy reading and traveling.
-<br>
+As a problem solver at heart, I embrace challenges and thrive in collaborative environments where creativity and innovation are encouraged. My approach combines technical skills with a keen attention to detail, ensuring every project is both functional and user-friendly.
+<br/>
+Beyond the keyboard, I find inspiration in reading, where I explore diverse topics to broaden my perspective. I also enjoy traveling, which fuels my curiosity and provides fresh ideas for approaching development challenges. These experiences enrich my work and drive my passion for continuous growth in the ever-evolving world of software development.
+<be>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px" />
   
 **A bit about me:**
