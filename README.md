@@ -20,7 +20,7 @@ Beyond the keyboard, I find inspiration in reading, where I explore diverse topi
 - 💬 Ask me about **anything you feel like!**
 - 📫 How to reach me **razam6568@gmail.com**
 - ⚡ Fun fact **I play Football and listen to Song!**
-- 🥅 **2024 Goals**: Contribute more to Open Source projects.
+- 🥅 **2025 Goals**: Contribute more to Open Source projects.
 
 <br>
 <p align="center">
