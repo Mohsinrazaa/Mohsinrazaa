@@ -40,7 +40,7 @@ Beyond the keyboard, I find inspiration in reading, where I explore diverse topi
 <a href="http://www.fiverr.com/s2/7f29466eb7">	
   <img align="center" alt="Mohsin Raza | Fiverr" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />	
 </a>	
-<a href="https://www.instagram.com/razan6568">	
+<a href="https://www.instagram.com/mohsin_raza_40">	
   <img align="center" alt="Mohsin Raza | Instagram" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />	
 </a>
 </p>
