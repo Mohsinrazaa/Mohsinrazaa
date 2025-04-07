@@ -61,6 +61,6 @@ Happy Coding!!
 <a href="https://www.kaggle.com/razamh"><img src="https://img.shields.io/badge/-Mohsin%20Raza-0077B5?style=flat&logo=kaggle&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mohsin-raza-46b5a6134"><img src="https://img.shields.io/badge/-Mohsin%20Raza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:raazabc60@gmail.com"><img src="https://img.shields.io/badge/-raazabc60@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/razam6568/"><img src="https://img.shields.io/badge/-@mohsinraza-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/mohsin_raza_40/"><img src="https://img.shields.io/badge/-@mohsinraza-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/razam66"><img src="https://img.shields.io/badge/-@mohsinraa-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
