@@ -54,15 +54,9 @@ To me, software development is both a science and an art — a space where logic
 
 ## 📊 GitHub Analytics
 
-<div align="center"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mohsinrazaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mohsinrazaa&layout=compact&langs_count=8&theme=algolia"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohsinrazaa&theme=algolia" alt="GitHub Streak" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohsinrazaa&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> </div>
-
+<div align="center"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mohsinrazaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mohsinrazaa&layout=compact&langs_count=8&theme=algolia"/> 
 ----------
 
-## 🏆 GitHub Trophies
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Mohsinrazaa&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" /> </div>
-
-----------
 
 ## 🤝 Connect With Me
 
