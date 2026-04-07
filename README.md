@@ -79,7 +79,7 @@ To me, software development is both a science and an art — a space where logic
 -   🤝 Always eager to **learn and share new tech**
 -   💬 Ask me about **Python, ML, AI, or just say hi**
 -   ⚽ Fun Facts: I enjoy football and composing music!
--   🥅 2025 Goal: Contribute more to **Open Source**
+-   🥅 2026 Goal: Contribute more to **Open Source**
 -   🎹 Part of the band _Collidoscope_ - where code meets creativity!
 
 <br clear="right"/>
